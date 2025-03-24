@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Neal
-- 👀 I’m interested in Tech & Programming 
+- 👀 I’m interested in Tech, Programming and Java Full Stack(Spring Boot) 
 - 🌱 I’m currently surfing around tech possibilities.
 - 💞️ I’m looking to collaborate on any Project that is useful in regards to me and other fellows 
 - 📫 Reach me @nealchakravarty930@gmail.com
