@@ -2,7 +2,7 @@
 - 👀 I’m interested in Tech,Java Full Stack(Spring Boot), spring AI and so_on...
 - 🌱 I’m currently surfing around tech possibilities.
 - 💞️ I’m looking to collaborate on any Project that is useful in regards to me and other fellows 
-- 📫 Reach me @nealchakravarty930@gmail.com
+- 📫 Reach me @nealchakravarty733@gmail.com
 - ⚡ Fun fact: Untill it is compiled it's not funny.
 
 <!---
